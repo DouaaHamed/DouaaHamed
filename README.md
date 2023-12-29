@@ -6,7 +6,7 @@
 
 - ⚡ Fun Fact: Since I was a kid, my dream job was to be working in scienctific research.
  
-- 👀 I’m interested in geochemistry (hard rocks)
+- 👀 My primary area of interest revolves around geochemistry, with a particular emphasis on the intricate study of hard rocks.
  
 - 🌱 I’m currently learning about basin analysis
 
