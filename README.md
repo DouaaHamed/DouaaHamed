@@ -4,6 +4,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/105376349/167888404-67b379ac-5a42-48eb-a602-efb6777776ee.gif" alt="Hola Coders" width="300" height="210"/>
 
 
+
 - ⚡ Fun Fact: Since I was a kid, my dream job was to be working in scienctific research.
  
 - 👀 My primary area of interest revolves around geochemistry, with a particular emphasis on the intricate study of hard rocks.
